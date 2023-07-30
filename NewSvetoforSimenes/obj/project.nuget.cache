@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a73nxEKmi3xbAXxT/I5/wXoVqypuf/xghQOpehFW/t7SrUNq0NZr8t55OexgB1xAL2pIrBIoUEobgOzNojARWg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Саша\\source\\repos\\NewSvetoforSimenes\\NewSvetoforSimenes\\NewSvetoforSimenes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Саша\\.nuget\\packages\\s7netplus\\0.16.0\\s7netplus.0.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
